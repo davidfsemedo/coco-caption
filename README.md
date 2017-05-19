@@ -1,8 +1,11 @@
 
+Updates
+===================
+
 Added support for Python 3. Now supports both python 2 and 3.
 Fixed METEOR bug with LOCALE.
 
-===============================================================================================
+
 Microsoft COCO Caption Evaluation
 ===================
 
